@@ -1,19 +1,5 @@
 # Mini-Project: To-Do List Application
 
-# Task 1: User Interface (UI): Create a command-line interface (CLI)
-# Task 2: To-Do List Features: Adding a task (by default "incomplete"). Viewing the list of tasks. 
-#         Marking a task complete. Deleting a task. Quitting the app.
-# Task 3: User Interaction: Allow users to interact with the app by selecting menu options using input(), 
-#         and handle unexpected user input gracefully.
-# Task 4: Error Handling: Implement error handling using try, except, else, and finally.
-# Task 5: Code Organization: Organize your code into functions using meaningful names.
-# Task 6: Testing and Debugging: Thoroughly test your app to identify and fix any bugs. (empty tasks lists)
-# Task 7: Documentation: Include a README file that explains how to run the app with brief overview of features.
-# Task 8: Optional Features *BONUS*: Add extra features like task priorities, due dates, or color-coding tasks 
-#         based on their status.
-# Task 9: GitHub Repository: Create a GitHub repository, commit your code regularly, and include link to your
-#         GitHub repository in your project documentation.
-
 import sys
 from termcolor import colored
 from datetime import date, datetime
